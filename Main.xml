@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+#START#
 <poster></poster>
 <fanart></fanart>
 <thumbnail></thumbnail>
@@ -9,3 +9,5 @@
   <title>SS1</title>
   <link>https://raw.githubusercontent.com/montyjacks123/Monty-jacks-Events/master/Sports</link>
 </item>
+
+#END#
