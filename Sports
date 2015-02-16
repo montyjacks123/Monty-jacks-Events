@@ -1,9 +1,11 @@
-
+<poster></poster>
+<fanart></fanart>
+<thumbnail></thumbnail>
 
 
 
 <item>
-<title></title>
+<title>SS1</title>
 <thumbnaiil></thumbnail>
-<link></link>
+<link>rtmp://167.114.117.208/live/sky1v pageUrl=http://www.rarehost.net/amember/vip/sky1.php swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=true token=WY846p1E1g15W7s timeout=20</link>
 </item>
