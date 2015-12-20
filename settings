@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Login Settings">
+		<setting id="snusername" type="text" label="Events-Lounge Username" default="" visible="true"/>
+		<setting id="snpassword" type="text"label="Events-Lounge Password" default="" visible="true"/>
+		<setting label="Visit http://events-lounge.com/register.php to signup for your account" type="lsep" />
+		<setting id="counter" type="text" label="hidden counter" default="no" visible="false"/>
+	</category>
+</settings>
